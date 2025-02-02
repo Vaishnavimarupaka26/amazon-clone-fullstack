@@ -23,10 +23,10 @@ You need to have Node.js and npm (Node Package Manager) installed on your machin
 Clone the repository to your local machine:
 
 **Built With**
-MongoDB - The database used
-Express.js - The web framework used for the backend
-React.js - The frontend library used
-Node.js - The runtime environment used
+1. MongoDB - The database used,
+2.Express.js - The web framework used for the backend,
+3.React.js - The frontend library used,
+4.Node.js - The runtime environment used,
 
 
 **Image Sources**
